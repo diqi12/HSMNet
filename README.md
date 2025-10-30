@@ -21,7 +21,7 @@ We hope that our HSMNet design can provide some inspiration for future research 
 ### Usage
 #### Quickstart
 ```
-python train.py --train-cover-dir ... --val-cover-dir ... --train-stego-dir ... --val-stego-dir ... --model kenet --ckpt-dir ...
+python train.py --train-cover-dir ... --val-cover-dir ... --train-stego-dir ... --val-stego-dir ... --ckpt-dir ...
 ```
 
 #### Other Parameters
